@@ -1,0 +1,9 @@
+{
+    "bg_color": "#000000",
+    "frames":{
+        "default_width": 1280,
+        "default_height": 720,
+        "border_width": 2,
+        "border_color": "#1477d2"
+    }
+}
